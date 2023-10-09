@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ruda-siddiqui
 - 👀 I’m interested in ... data analyst 
-- 🌱 I’m currently learning .. SQl
+- 🌱 I’m currently learning .. SQL
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... ruda.akmal@gmail.com
 
